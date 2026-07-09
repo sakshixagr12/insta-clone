@@ -1,2 +1,21 @@
-# insta-clone
-A front-end clone of Instagram's pages built using HTML and CSS, focusing on clean layout, form design, and responsive styling fundamentals.
+# Instagram Clone
+
+A front-end clone of Instagram built using **HTML** and **CSS** to practice modern web development and UI design.
+
+## Features
+
+- Instagram-inspired login page
+- Semantic HTML5
+- CSS3 styling
+- Responsive layout
+
+## Tech Stack
+
+- HTML5
+- CSS3
+
+
+
+## Status
+
+🚧 Work in Progress — More Instagram pages will be added.
